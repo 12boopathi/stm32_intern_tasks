@@ -1,0 +1,2 @@
+../Core/Src/7seg.c:32:6:SEVEN_SEG_Init	56	static
+../Core/Src/7seg.c:70:6:SEVEN_SEG_Main	24	static
